@@ -1,0 +1,1 @@
+Adntmedia.KeyTarget.Adform.addBannerToQueueFor980x200({ });

@@ -1,0 +1,2 @@
+bmone2n.addAd("19508.3.12.1","<scr"+"ipt language=JavaScript>document.write(\"<SCR\"+\"IPT type=\\\"text/javascript\\\"><!--\\ngoogle_ad_client = \\\"ca-pub-3182858089993196\\\";\\n/* 1000x200_Bottom */\\ngoogle_ad_slot = \\\"6182655860\\\";\\ngoogle_ad_width = 1000;\\ngoogle_ad_height = 200;\\n//-->\\n<\"+\"/SCR\"+\"IPT>\\n<SCR\"+\"IPT type=\\\"text/javascript\\\"\\nsrc=\\\"//pagead2.googlesyndication.com/pagead/show_ads.js\\\">\\n<\"+\"/SCR\"+\"IPT>\");<"+"/scr"+"ipt>",false);
+
